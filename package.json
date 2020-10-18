@@ -3,9 +3,6 @@
   "version": "0.1.0-rc1",
   "description": "",
   "main": "dist/index.js",
-  "publishConfig": {
-    "access": "restricted"
-  },
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack --mode development",

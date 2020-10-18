@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Publish in npm repo
 - Style of component with styled-components
 - Install and config eslint and prettier
 - Install of dependences for React and Babel
