@@ -1,0 +1,64 @@
+{
+  "name": "input-token-web",
+  "version": "0.1.0-rc1",
+  "description": "",
+  "main": "dist/index.js",
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development",
+    "watch": "webpack --watch --progress",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "npm run build"
+  },
+  "keywords": [
+    "reactjs",
+    "javascript",
+    "input-token-web"
+  ],
+  "author": "Walesson Silva",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Walesson/input-token-web.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^4.3.0",
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.13.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.21.4",
+    "eslint-plugin-react-hooks": "^4.1.2",
+    "file-loader": "^6.1.1",
+    "prettier": "^2.1.2",
+    "style-loader": "^2.0.0",
+    "terser-webpack-plugin": "^4.2.3",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "styled-components": "^5.2.0"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1"
+  },
+  "engines": {
+    "node": ">=12.19.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
