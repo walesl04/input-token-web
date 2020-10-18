@@ -2,22 +2,23 @@
     <img src="https://github.com/Walesson/input-token-web/blob/master/images/logo-package.png" title="Logo Input Token Web" />
 </h3>
 
-<h3 align="center">  
-    Input Token Web
-</h3>
-
----
+<h1 align="center">  
+    INPUT TOKEN WEB
+</h1>
 
 <h3 align="center">
   ⚛️ 🚀
 </h3>
+
+---
+
 <p align="center">
   <a href="https://github.com/Walesson/input-token/">
     <img src="https://img.shields.io/badge/reactjs-input--token--web-%23663399?style=for-the-badge&logo=ghost" alt="Logo badge" />
   </a>
 </p>
 
-## :rocket: About the project
+## :rocket: About
 
 The **Input-token-web**, is a easy and beautiful component reactjs for web applications, allowing to obtain the token information entered by the user.
 <br />
