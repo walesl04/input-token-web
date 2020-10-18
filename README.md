@@ -1,5 +1,5 @@
 <h3 align="center">  
-    <img src="https://github.com/Walesson/input-token-web/blob/master/images/logo-package.png" title="Logo Input Token Web" />
+    <img src="https://raw.githubusercontent.com/Walesson/input-token-web/master/images/logo-package.png" title="Logo Input Token Web" />
 </h3>
 
 <h1 align="center">  
@@ -9,8 +9,6 @@
 <h3 align="center">
   ⚛️ 🚀
 </h3>
-
----
 
 <p align="center">
   <a href="https://github.com/Walesson/input-token/">
