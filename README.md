@@ -1,5 +1,5 @@
 <h3 align="center">  
-    <img src="https://github.com/Walesson/input-tokne-web/blob/master/iamges/logo-package.png" title="Logo Input Token Web" />
+    <img src="https://github.com/Walesson/input-token-web/blob/master/images/logo-package.png" title="Logo Input Token Web" />
 </h3>
 
 <h3 align="center">  
