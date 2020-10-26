@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/reactjs-input--token--web-%23663399?style=for-the-badge&logo=ghost" alt="Logo badge" />
   </a>
   <a href="https://www.npmjs.com/package/input-token-web">
-    ![npm](https://img.shields.io/npm/dt/input-token-web?color=green&logo=ghost&style=for-the-badge)
+    <img src="https://img.shields.io/npm/dt/input-token-web?color=green&logo=ghost&style=for-the-badge" />
   </a>
   <a href="https://github.com/Walesson/input-token/">
     <img src="https://img.shields.io/badge/npm-6.14.8-tomato?style=for-the-badge&logo=ghost" alt="npm version" />
