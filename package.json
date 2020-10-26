@@ -20,6 +20,9 @@
     "type": "git",
     "url": "https://github.com/Walesson/input-token-web.git"
   },
+  "bugs":{
+    "url": "https://github.com/Walesson/input-token-web/issues"
+  },
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.11.6",
@@ -50,7 +53,7 @@
     "styled-components": "^5.2.0"
   },
   "peerDependencies": {
-    "react": "^16.13.1"
+    "react": "^16.8.0"
   },
   "engines": {
     "node": ">=12.19.0"
